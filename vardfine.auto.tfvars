@@ -1,0 +1,8 @@
+subs="2021-2022 Subscription"
+rgname="terraform"
+vm1="AZWE00148"
+vn="ACG-vnet"
+sn="default"
+location="Central India"
+vm_username="dormakaba"
+vm_password="m!grate2MS.AZUR3"
